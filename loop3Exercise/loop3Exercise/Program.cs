@@ -23,7 +23,8 @@
                 Console.WriteLine(j);
                 Console.ReadLine();
             }
-            
+            //ANSWER: for loop wil loop 7 times
+            //BONUS : while loop will loop for 6 times
         }
     }
 }
