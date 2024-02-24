@@ -1,0 +1,14 @@
+C:\Users\kimji\source\repos\loop5Exercise\loop5Exercise\bin\Debug\net8.0\loop5Exercise.exe
+C:\Users\kimji\source\repos\loop5Exercise\loop5Exercise\bin\Debug\net8.0\loop5Exercise.deps.json
+C:\Users\kimji\source\repos\loop5Exercise\loop5Exercise\bin\Debug\net8.0\loop5Exercise.runtimeconfig.json
+C:\Users\kimji\source\repos\loop5Exercise\loop5Exercise\bin\Debug\net8.0\loop5Exercise.dll
+C:\Users\kimji\source\repos\loop5Exercise\loop5Exercise\bin\Debug\net8.0\loop5Exercise.pdb
+C:\Users\kimji\source\repos\loop5Exercise\loop5Exercise\obj\Debug\net8.0\loop5Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimji\source\repos\loop5Exercise\loop5Exercise\obj\Debug\net8.0\loop5Exercise.AssemblyInfoInputs.cache
+C:\Users\kimji\source\repos\loop5Exercise\loop5Exercise\obj\Debug\net8.0\loop5Exercise.AssemblyInfo.cs
+C:\Users\kimji\source\repos\loop5Exercise\loop5Exercise\obj\Debug\net8.0\loop5Exercise.csproj.CoreCompileInputs.cache
+C:\Users\kimji\source\repos\loop5Exercise\loop5Exercise\obj\Debug\net8.0\loop5Exercise.dll
+C:\Users\kimji\source\repos\loop5Exercise\loop5Exercise\obj\Debug\net8.0\refint\loop5Exercise.dll
+C:\Users\kimji\source\repos\loop5Exercise\loop5Exercise\obj\Debug\net8.0\loop5Exercise.pdb
+C:\Users\kimji\source\repos\loop5Exercise\loop5Exercise\obj\Debug\net8.0\loop5Exercise.genruntimeconfig.cache
+C:\Users\kimji\source\repos\loop5Exercise\loop5Exercise\obj\Debug\net8.0\ref\loop5Exercise.dll
