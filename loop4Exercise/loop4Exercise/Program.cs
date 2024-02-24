@@ -15,5 +15,5 @@
             }
             Console.ReadLine();
         }       
-    }  //ANSWER: will run forever since i will be forever zero
+    }  //ANSWER: will run forever since (i) variable will be forever zero
 }
