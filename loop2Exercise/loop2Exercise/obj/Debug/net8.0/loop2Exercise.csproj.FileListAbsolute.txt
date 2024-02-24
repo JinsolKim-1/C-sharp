@@ -1,0 +1,14 @@
+C:\Users\kimji\source\repos\loop2Exercise\loop2Exercise\bin\Debug\net8.0\loop2Exercise.exe
+C:\Users\kimji\source\repos\loop2Exercise\loop2Exercise\bin\Debug\net8.0\loop2Exercise.deps.json
+C:\Users\kimji\source\repos\loop2Exercise\loop2Exercise\bin\Debug\net8.0\loop2Exercise.runtimeconfig.json
+C:\Users\kimji\source\repos\loop2Exercise\loop2Exercise\bin\Debug\net8.0\loop2Exercise.dll
+C:\Users\kimji\source\repos\loop2Exercise\loop2Exercise\bin\Debug\net8.0\loop2Exercise.pdb
+C:\Users\kimji\source\repos\loop2Exercise\loop2Exercise\obj\Debug\net8.0\loop2Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimji\source\repos\loop2Exercise\loop2Exercise\obj\Debug\net8.0\loop2Exercise.AssemblyInfoInputs.cache
+C:\Users\kimji\source\repos\loop2Exercise\loop2Exercise\obj\Debug\net8.0\loop2Exercise.AssemblyInfo.cs
+C:\Users\kimji\source\repos\loop2Exercise\loop2Exercise\obj\Debug\net8.0\loop2Exercise.csproj.CoreCompileInputs.cache
+C:\Users\kimji\source\repos\loop2Exercise\loop2Exercise\obj\Debug\net8.0\loop2Exercise.dll
+C:\Users\kimji\source\repos\loop2Exercise\loop2Exercise\obj\Debug\net8.0\refint\loop2Exercise.dll
+C:\Users\kimji\source\repos\loop2Exercise\loop2Exercise\obj\Debug\net8.0\loop2Exercise.pdb
+C:\Users\kimji\source\repos\loop2Exercise\loop2Exercise\obj\Debug\net8.0\loop2Exercise.genruntimeconfig.cache
+C:\Users\kimji\source\repos\loop2Exercise\loop2Exercise\obj\Debug\net8.0\ref\loop2Exercise.dll
