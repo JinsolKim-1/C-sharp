@@ -1,0 +1,14 @@
+C:\Users\kimji\source\repos\loop4Exercise\loop4Exercise\obj\Debug\net8.0\loop4Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimji\source\repos\loop4Exercise\loop4Exercise\obj\Debug\net8.0\loop4Exercise.AssemblyInfoInputs.cache
+C:\Users\kimji\source\repos\loop4Exercise\loop4Exercise\obj\Debug\net8.0\loop4Exercise.AssemblyInfo.cs
+C:\Users\kimji\source\repos\loop4Exercise\loop4Exercise\obj\Debug\net8.0\loop4Exercise.csproj.CoreCompileInputs.cache
+C:\Users\kimji\source\repos\loop4Exercise\loop4Exercise\bin\Debug\net8.0\loop4Exercise.exe
+C:\Users\kimji\source\repos\loop4Exercise\loop4Exercise\bin\Debug\net8.0\loop4Exercise.deps.json
+C:\Users\kimji\source\repos\loop4Exercise\loop4Exercise\bin\Debug\net8.0\loop4Exercise.runtimeconfig.json
+C:\Users\kimji\source\repos\loop4Exercise\loop4Exercise\bin\Debug\net8.0\loop4Exercise.dll
+C:\Users\kimji\source\repos\loop4Exercise\loop4Exercise\bin\Debug\net8.0\loop4Exercise.pdb
+C:\Users\kimji\source\repos\loop4Exercise\loop4Exercise\obj\Debug\net8.0\loop4Exercise.dll
+C:\Users\kimji\source\repos\loop4Exercise\loop4Exercise\obj\Debug\net8.0\refint\loop4Exercise.dll
+C:\Users\kimji\source\repos\loop4Exercise\loop4Exercise\obj\Debug\net8.0\loop4Exercise.pdb
+C:\Users\kimji\source\repos\loop4Exercise\loop4Exercise\obj\Debug\net8.0\loop4Exercise.genruntimeconfig.cache
+C:\Users\kimji\source\repos\loop4Exercise\loop4Exercise\obj\Debug\net8.0\ref\loop4Exercise.dll
