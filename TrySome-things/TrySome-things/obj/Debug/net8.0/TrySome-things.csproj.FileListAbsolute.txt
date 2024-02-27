@@ -1,0 +1,14 @@
+C:\Users\kimji\source\repos\TrySome-things\TrySome-things\bin\Debug\net8.0\TrySome-things.exe
+C:\Users\kimji\source\repos\TrySome-things\TrySome-things\bin\Debug\net8.0\TrySome-things.deps.json
+C:\Users\kimji\source\repos\TrySome-things\TrySome-things\bin\Debug\net8.0\TrySome-things.runtimeconfig.json
+C:\Users\kimji\source\repos\TrySome-things\TrySome-things\bin\Debug\net8.0\TrySome-things.dll
+C:\Users\kimji\source\repos\TrySome-things\TrySome-things\bin\Debug\net8.0\TrySome-things.pdb
+C:\Users\kimji\source\repos\TrySome-things\TrySome-things\obj\Debug\net8.0\TrySome-things.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimji\source\repos\TrySome-things\TrySome-things\obj\Debug\net8.0\TrySome-things.AssemblyInfoInputs.cache
+C:\Users\kimji\source\repos\TrySome-things\TrySome-things\obj\Debug\net8.0\TrySome-things.AssemblyInfo.cs
+C:\Users\kimji\source\repos\TrySome-things\TrySome-things\obj\Debug\net8.0\TrySome-things.csproj.CoreCompileInputs.cache
+C:\Users\kimji\source\repos\TrySome-things\TrySome-things\obj\Debug\net8.0\TrySome-things.dll
+C:\Users\kimji\source\repos\TrySome-things\TrySome-things\obj\Debug\net8.0\refint\TrySome-things.dll
+C:\Users\kimji\source\repos\TrySome-things\TrySome-things\obj\Debug\net8.0\TrySome-things.pdb
+C:\Users\kimji\source\repos\TrySome-things\TrySome-things\obj\Debug\net8.0\TrySome-things.genruntimeconfig.cache
+C:\Users\kimji\source\repos\TrySome-things\TrySome-things\obj\Debug\net8.0\ref\TrySome-things.dll
