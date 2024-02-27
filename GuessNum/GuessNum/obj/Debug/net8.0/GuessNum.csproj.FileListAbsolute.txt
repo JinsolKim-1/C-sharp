@@ -1,0 +1,14 @@
+C:\Users\kimji\source\repos\GuessNum\GuessNum\bin\Debug\net8.0\GuessNum.exe
+C:\Users\kimji\source\repos\GuessNum\GuessNum\bin\Debug\net8.0\GuessNum.deps.json
+C:\Users\kimji\source\repos\GuessNum\GuessNum\bin\Debug\net8.0\GuessNum.runtimeconfig.json
+C:\Users\kimji\source\repos\GuessNum\GuessNum\bin\Debug\net8.0\GuessNum.dll
+C:\Users\kimji\source\repos\GuessNum\GuessNum\bin\Debug\net8.0\GuessNum.pdb
+C:\Users\kimji\source\repos\GuessNum\GuessNum\obj\Debug\net8.0\GuessNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimji\source\repos\GuessNum\GuessNum\obj\Debug\net8.0\GuessNum.AssemblyInfoInputs.cache
+C:\Users\kimji\source\repos\GuessNum\GuessNum\obj\Debug\net8.0\GuessNum.AssemblyInfo.cs
+C:\Users\kimji\source\repos\GuessNum\GuessNum\obj\Debug\net8.0\GuessNum.csproj.CoreCompileInputs.cache
+C:\Users\kimji\source\repos\GuessNum\GuessNum\obj\Debug\net8.0\GuessNum.dll
+C:\Users\kimji\source\repos\GuessNum\GuessNum\obj\Debug\net8.0\refint\GuessNum.dll
+C:\Users\kimji\source\repos\GuessNum\GuessNum\obj\Debug\net8.0\GuessNum.pdb
+C:\Users\kimji\source\repos\GuessNum\GuessNum\obj\Debug\net8.0\GuessNum.genruntimeconfig.cache
+C:\Users\kimji\source\repos\GuessNum\GuessNum\obj\Debug\net8.0\ref\GuessNum.dll
