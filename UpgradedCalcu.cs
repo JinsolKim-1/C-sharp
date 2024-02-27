@@ -77,7 +77,7 @@ namespace Calculator
               //if the user mistakenly pressed below 1 or higher than 4  
             } while (used is < 1 or > 3);
 
-          //Exits the cmd
+          //Exits the program
           Console.ReadLine();
 
 
